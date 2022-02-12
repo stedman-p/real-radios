@@ -1,2 +1,5 @@
 # no libreoffice drawing images
 *.odg
+
+# keep those api keys safe
+keys.txt
